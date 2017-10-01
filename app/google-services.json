@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234319409105",
+    "firebase_url": "https://thetwoethans.firebaseio.com",
+    "project_id": "thetwoethans",
+    "storage_bucket": "thetwoethans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234319409105:android:6433482d68ab20db",
+        "android_client_info": {
+          "package_name": "com.example.ethan.studymates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234319409105-b3dip65a2phlcniuafn2tg7b1kdrpfhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiUcYGfB1JrW3WcbqnZjoXVZKIPISRPm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
