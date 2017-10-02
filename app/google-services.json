@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "234319409105-j3golj7a0kkcugm1uko32eljmdg95jg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ethan.studymates",
+            "certificate_hash": "a197da3a927af4467f351ce49011c5d4ac3025e4"
+          }
+        },
+        {
           "client_id": "234319409105-b3dip65a2phlcniuafn2tg7b1kdrpfhb.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234319409105-b3dip65a2phlcniuafn2tg7b1kdrpfhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
